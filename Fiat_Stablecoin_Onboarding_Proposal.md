@@ -72,9 +72,7 @@ Once the tokens arrive on the Cere network, the user’s DDC balance is automati
 ## 🎨UI Wireframe
 ![Fiat Onboarding Flow](./images/wireframe.png)
 
-
-
-<img src="./images/wireframe.png" alt="Project logo" width="300" />
+---
 
 
 ## 📆 Development Timeline
