@@ -73,6 +73,10 @@ Once the tokens arrive on the Cere network, the user’s DDC balance is automati
 ![Fiat Onboarding Flow](./images/wireframe.png)
 
 
+
+<img src="./images/wireframe.png" alt="Project logo" width="300" />
+
+
 ## 📆 Development Timeline
 
 Milestone | Duration | FTE | Deliverables |
@@ -114,7 +118,7 @@ Milestone | Duration | FTE | Deliverables |
 ---
 
 ## 🖼️ Sequence Diagram
-![Fiat Onboarding Flow](./images/wireframe.png)
+![Fiat Onboarding Flow](./images/proposal.png)
 
 
 ---
