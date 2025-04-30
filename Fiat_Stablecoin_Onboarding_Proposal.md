@@ -26,7 +26,7 @@ This enhancement will significantly reduce onboarding friction, eliminate token 
 
 ### Contact Info  
 - **Email:** emmanuel.thomas237@gmail.com
-- **GitHub:** https://github.com/[your-org]  
+- **GitHub:** https://github.com/Stripe-Fiat-to-CERE 
 - **LinkedIn:** [Your LinkedIn]  
 - **Website (if any):** [URL]
 
