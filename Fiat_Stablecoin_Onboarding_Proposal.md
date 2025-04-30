@@ -69,6 +69,10 @@ Once the tokens arrive on the Cere network, the user’s DDC balance is automati
 
 ---
 
+## 🎨UI Wireframe
+![UI Wireframe](./images/TestWireframeCardPayment.png)
+
+
 ## 📆 Development Timeline
 
 Milestone | Duration | FTE | Deliverables |
