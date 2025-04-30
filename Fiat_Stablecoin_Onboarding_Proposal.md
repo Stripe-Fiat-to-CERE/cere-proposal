@@ -112,8 +112,8 @@ Milestone | Duration | FTE | Deliverables |
 ---
 
 ## 🖼️ Sequence Diagram
-- [Logo 1:1 in PNG/SVG]  
-- [UX Mockup Screenshots or Diagrams if available]
+![Fiat Onboarding Flow](./images/proposal.png)
+
 
 ---
 
