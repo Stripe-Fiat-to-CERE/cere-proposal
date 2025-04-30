@@ -114,7 +114,7 @@ Milestone | Duration | FTE | Deliverables |
 ---
 
 ## 🖼️ Sequence Diagram
-![Fiat Onboarding Flow](./images/proposal.png)
+![Fiat Onboarding Flow](./images/wireframe.png)
 
 
 ---
