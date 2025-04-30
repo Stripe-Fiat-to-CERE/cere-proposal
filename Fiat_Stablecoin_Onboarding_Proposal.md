@@ -7,7 +7,6 @@
 ## 🔖 Project Identifier  
 **Proposal Title:** Streamlined Fiat & Stablecoin Top-Ups for DDC  
 **Slug:** `fiat-onramp-ddc`  
-**Reference Link:** [Link to Idea on Cere Platform]
 
 ---
 
@@ -75,17 +74,17 @@ Once the tokens arrive on the Cere network, the user’s DDC balance is automati
 Milestone | Duration | FTE | Deliverables |
 |----------:|----------:|-----:|--------------|
 
-**M1: Core Infrastructure Setup** | 4 weeks | 1.5 |  
+**M1: UI/UX Implementation** | 2 weeks | 1.5 |  
+- Console UI with payment module  
+- Real-time balance reflection in DDC dashboard  
+- Error handling and retry flows 
+
+**M2: Core Infrastructure Setup** | 1 weeks | 1.5 |  
 - Integration with Stripe/Transak API  
 - Smart contracts for USDC→CERE swaps  
 - Cross-chain transfer via Hyperbridge  
 
- **M2: UI/UX Implementation** | 4 weeks | 1.5 |  
-- Console UI with payment module  
-- Real-time balance reflection in DDC dashboard  
-- Error handling and retry flows  
-
- **M3: Testing, Docs & Mainnet Launch** | 4 weeks | 2 |  
+ **M3: Testing, Docs & Mainnet Launch** | 1 weeks | 2 |  
 - Unit and integration tests on Sepolia and Cere Testnet  
 - Developer and admin documentation  
 - Final deployment to Cere Mainnet  
@@ -107,7 +106,6 @@ Milestone | Duration | FTE | Deliverables |
 ## 💰 Funding & Delivery Details  
 **Preferred Payout Method:** USDC  
 **Ethereum Address:** `0x000000...`  
-**Breakdown:** Based on milestone completion, billed monthly  
 
 ---
 
